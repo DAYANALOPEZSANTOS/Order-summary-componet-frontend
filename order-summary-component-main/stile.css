@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    display: inline-block;
+}
+
+.Card-title {
+    color: red;
+}
+
+p {
+    color: blueviolet;
+}
+
+.Card-container {
+    width: 450px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Background-color {
+    background-color: azure;
+    display: flex;
+    align-items: content;
+}
